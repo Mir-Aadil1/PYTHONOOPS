@@ -1,5 +1,5 @@
 # Python Object-Oriented Programming
-This is the repository for the LinkedIn Learning course Python Object-Oriented Programming. The full course is available from [LinkedIn Learning][lil-course-url].
+
 
 ![Python Object-Oriented Programming][lil-thumbnail-url] 
 
@@ -27,10 +27,8 @@ Senior Director of Product and Engineering
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
 
-[lil-course-url]: https://www.linkedin.com/learning/python-object-oriented-programming-22888296?dApp=59033956&leis=LAA
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQGmlDAUUSloow/learning-public-crop_675_1200/0/1697645724849?e=2147483647&v=beta&t=Ws35uIg4NrNGWXqHuaX4LoGzK4DvrQjZu5Q6QJQ_SqM
+
 
 
 
